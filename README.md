@@ -1,6 +1,6 @@
 # Employee Attrition Prediction
 
-The "Employee Attrition Prediction" project focuses on predicting employee turnover using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), Matplotlib, Seaborn, and XGBoost, this project provides an end-to-end solution for accurately predicting employee attrition, helping organizations make data-driven decisions to retain talent.
+The "Employee Attrition Prediction" project focuses on predicting employee turnover using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), Matplotlib, Seaborn this project provides an end-to-end solution for accurately predicting employee attrition, helping organizations make data-driven decisions to retain talent.
 
 ## Project Overview
 
