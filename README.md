@@ -22,7 +22,7 @@ The "Employee Attrition Prediction" project aims to develop a model that can pre
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `gh repo clone username/Employee_Attrition_Prediction`
+1. Clone the repository: `gh repo clone Krish-Ramoliya/Edunet_Project`
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Launch the Jupyter notebook: `jupyter notebook`
 4. Open the `Employee_Attrition_Prediction.ipynb` file and run the notebook cells sequentially.
